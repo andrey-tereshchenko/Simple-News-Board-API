@@ -26,3 +26,4 @@ api/v1/news_board/
 | PUT |+| post/comment/detail/{comment_id}/   |    content |Update comment|
 | DELETE |+| post/comment/detail/{comment_id}/   |    - |Delete comment|
 
+Postman collection link: https://www.getpostman.com/collections/a52f25edce945890fba3
